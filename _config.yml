@@ -18,7 +18,7 @@ title_separator: "—"
 # --- 作者资料（侧栏）
 author:
   name: "Mingze Li"
-  avatar: "/assets/images/avatar.jpg" # 放你头像即可；没有就删掉这一行
+  avatar: "/assets/images/bio-photo.jpg" # 放你头像即可；没有就删掉这一行
   bio: "AI for medical imaging • Robust ML • Human-centered LLM systems"
   location: "Karlsruhe, Germany"
   links:
