@@ -1,4 +1,4 @@
-title: "Mingze Li"
+eetitle: "Mingze Li"
 name: "Mingze Li"
 description: "AI for medical imaging • Robust ML • Human-centered LLM systems"
 # --- 主题：remote_theme 方式（GitHub Pages 友好）
@@ -27,7 +27,7 @@ author:
       url: "https://github.com/Mingze101"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:YOUR_EMAIL@example.com"
+      url: "mailto:mesenlee@163.com"
 
 # --- 社交/分析（暂时不用可删）
 # google_analytics: ""
