@@ -28,6 +28,9 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:mesenlee@163.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/mingze-li-987147363/"
 
 # --- 社交/分析（暂时不用可删）
 # google_analytics: ""
