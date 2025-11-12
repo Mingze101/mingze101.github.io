@@ -43,7 +43,7 @@ Hofmann, J., Schweickart, L., Zimmermann, C., **Li, M.**, Below, J., Schmieder, 
 *2025 6th International Conference in Electronic Engineering & Information Technology (EEITE), Chania, Greece, pp. 1–6. IEEE, 2025.*
 
 **Links:**  
-- 🔗 Paper: <https://openreview.net/forum?id=JzL0qm3YA8](https://ieeexplore.ieee.org/abstract/document/11166425)>
+- 🔗 Paper: <https://ieeexplore.ieee.org/abstract/document/11166425>
 
 <details>
 <summary><strong>Abstract</strong></summary>
