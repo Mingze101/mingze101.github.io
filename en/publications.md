@@ -5,11 +5,11 @@ author_profile: true
 toc: false
 ---
 
-<small>Tip: Click “Abstract” to expand. Replace the placeholder text with your own abstract.</small>
+<small>Publication List</small>
 
 ---
 
-### [1] KGMistral: Towards boosting the performance of large language models for question answering with knowledge graph integration (2024)
+#### [1] KGMistral: Towards boosting the performance of large language models for question answering with knowledge graph integration (2024)
 
 **Li, M.**, Yang, H., Liu, Z., Alam, M. M., Sack, H., & Gesese, G. A.  
 *Workshop on Deep Learning and Large Language Models for Knowledge Graphs (DL4KG & LLMs for KGs), 2024.*
@@ -37,7 +37,7 @@ In this paper, a novel question-answering (QA) approach named KGMistral is propo
 }
 ```
 </details>
-### [2] KGMistral: Towards boosting the performance of large language models for question answering with knowledge graph integration (2024)
+#### [2] KGMistral: Towards boosting the performance of large language models for question answering with knowledge graph integration (2024)
 
 Hofmann, J., Schweickart, L., Zimmermann, C., **Li, M.**, Below, J., Schmieder, A., ... & Stork, W.
 *2025 6th International Conference in Electronic Engineering & Information Technology (EEITE), Chania, Greece, pp. 1–6. IEEE, 2025.*
