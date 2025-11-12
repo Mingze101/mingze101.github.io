@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /en/
   - title: "About"
-    url: /about/
+    url: /en/about/
+  - title: "Projects"
+    url: /en/projects/
+  - title: "Publications"
+    url: /en/publications/
+  - title: "中文"
+    url: /zh/
