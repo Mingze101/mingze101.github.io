@@ -41,6 +41,9 @@ collections: null
 
 # --- 构建
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 highlighter: rouge
 plugins:
   - jekyll-include-cache  # 可选，提升构建性能（GitHub Pages 支持）
@@ -64,3 +67,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+
