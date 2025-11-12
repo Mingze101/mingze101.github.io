@@ -1,10 +1,10 @@
 main:
   - title: "Home"
-    url: /en/
+    url: /
   - title: "About"
-    url: /en/about/
+    url: /about/
   - title: "Projects"
-    url: /en/projects/
+    url: /projects/
   - title: "Publications"
-    url: /en/publications/
+    url: /publications/
   
