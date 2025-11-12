@@ -31,11 +31,9 @@ toc: false
 
 ---
 
-## FZI Forschungszentrum Informatik, Karlsruhe
+## FZI Forschungszentrum Informatik, Karlsruhe · HiWi (Student Research Assistant)
 
-### 07/2024 – Present · HiWi (Student Research Assistant)
-
-### 07/2024 – 06/2025 · HybridVITA Project [2]
+### 07/2024 – 06/2025 · HybridVITA Project  [2]
 - **Data preprocessing** and **data augmentation** for dermatology images.
 - **FCN** model fine-tuning for **skin** and **psoriasis** mask segmentation.
 - Built a pipeline for **ArUco marker** identification and **psoriasis area** calculation.
