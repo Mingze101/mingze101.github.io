@@ -7,7 +7,7 @@ toc: false
 
 ## Karlsruhe Institute of Technology (KIT)
 
-<details open>
+<details markdown="1" open>
 <summary><strong>11/2024 – 04/2025 · Master Thesis — <em>Designing an Iterative Prompt Optimization System for Domain-Specific Chatbots</em></strong></summary>
 
 - Designed and implemented an iterative **multi-agent debating** system to refine prompts for a mental-health support chatbot.
@@ -17,7 +17,7 @@ toc: false
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>11/2023 – 03/2024 · Behavioral Activation Chatbot</strong></summary>
 
 - Developed a BA chatbot using a **Retrieval-Augmented Generation (RAG)** pipeline and a **fine-tuned GPT-3.5** model.
@@ -26,7 +26,7 @@ toc: false
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>11/2023 – 03/2024 · Engineering Interactive Systems & EIS Capstone Project</strong></summary>
 
 - Collected **multimodal data** (eye-tracking, HR, PPG, accelerometer, mouse clicks & movement) on an **ABB operator-training simulator** to study workload and performance in a realistic workplace.
@@ -35,7 +35,7 @@ toc: false
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>11/2023 – 03/2024 · Boosting the Performance of LLMs for QA with Knowledge Graph Integration [1]</strong></summary>
 
 - Implemented **entity/relation extraction** from questions and **SPARQL** over a domain KG.
@@ -49,7 +49,7 @@ toc: false
 
 ## FZI Forschungszentrum Informatik, Karlsruhe · HiWi (Student Research Assistant)
 
-<details open>
+<details markdown="1" open>
 <summary><strong>07/2024 – 06/2025 · HybridVITA Project  [2]</strong></summary>
 
 - **Data preprocessing** and **data augmentation** for dermatology images.
@@ -61,7 +61,7 @@ toc: false
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>06/2025 – Present · OKTI Project</strong></summary>
 
 - Simulated **fixational eye movements** for dataset generation in **retinal OCT** B-scan volumes.
