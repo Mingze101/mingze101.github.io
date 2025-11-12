@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "My latest CV"
+date: 2025-11-12T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - CV
   - update
 ---
 
