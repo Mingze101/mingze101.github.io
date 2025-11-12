@@ -42,7 +42,10 @@ collections: null
 # --- 构建
 markdown: kramdown
 kramdown:
+  input: GFM
   parse_block_html: true
+  parse_span_html: true
+
 
 highlighter: rouge
 plugins:
