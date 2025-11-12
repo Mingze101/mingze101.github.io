@@ -49,7 +49,7 @@ toc: false
 
 ## FZI Forschungszentrum Informatik, Karlsruhe · HiWi (Student Research Assistant)
 
-<details>
+<details open>
   <summary><strong>07/2024 – 06/2025 · HybridVITA Project  [2]</strong></summary>
 
 - **Data preprocessing** and **data augmentation** for dermatology images.
