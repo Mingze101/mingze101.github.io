@@ -1,29 +1,34 @@
 ---
-title: "My latest CV"
+title: "My Latest CV"
 date: 2025-11-12T15:34:30-04:00
 categories:
   - blog
 tags:
   - CV
   - update
+permalink: /blog/mylatestCV/
+layout: single
+toc: false
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Below is the latest version of my **Curriculum Vitae (CV)**.  
+You can preview it directly on this page or download it as a PDF.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+---
 
-Jekyll also offers powerful support for code snippets:
+### 🧾 Online Preview
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+<iframe src="/assets/files/Mingze_Li.pdf#toolbar=0&view=FitH" width="100%" height="800px" style="border: none; border-radius: 8px;"></iframe>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+---
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### 📥 Download
+
+[👉 Click here to download Mingze_Li.pdf](/assets/files/Mingze_Li.pdf){: .btn .btn--primary }
+
+*(Last updated: November 2025)*
+
+---
+
+<small>If the embedded preview doesn’t display properly in your browser,  
+please right-click the link above and choose “Save link as…” to download.</small>
