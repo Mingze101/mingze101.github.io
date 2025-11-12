@@ -20,7 +20,7 @@ toc: false
 <details>
 <summary><strong>Abstract</strong></summary>
 
-*Paste your abstract here.*  
+
 In this paper, a novel question-answering (QA) approach named KGMistral is proposed, based on the Retrieval Augmented Generation (RAG) framework. Given the limitations of Large Language Models (LLMs) in generating accurate answers for domains not adequately covered by their training corpus, this work focuses on leveraging external domain-specific Knowledge Graphs (KGs) to enhance the performance of LLMs. Specifically, the study examines the benefits of using information from a KG to improve the QA performance of the Mistral model in the material science and engineering field. Experimental results indicate that KGMistral significantly enhances Mistral’s QA performance.
 </details>
 
@@ -48,7 +48,7 @@ Hofmann, J., Schweickart, L., Zimmermann, C., **Li, M.**, Below, J., Schmieder, 
 <details>
 <summary><strong>Abstract</strong></summary>
 
-*Paste your abstract here.*  
+ 
 Psoriasis is a chronic skin disease characterized by scaly, inflamed plaques. Perfusion changes are among the earliest detectable markers of lesion development. This study proposes a novel, non-contact method for perfusion analysis to monitor psoriasis progression over time. Videos of affected skin areas are recorded over a period of several days. A Fully Convolutional Network is fine-tuned for segmentation of psoriatic and healthy regions. Perfusion signals are extracted from these regions using a remote photoplethysmography approach. The resulting perfusion patterns enable tracking changes in lesion status over time, providing insights into disease dynamics. The method offers a non-invasive, cost-effective and telemedical option for the long-term monitoring of psoriasis patients and early detection of disease flare-ups, which facilitates personalized treatment strategies.
 </details>
 
