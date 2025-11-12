@@ -5,7 +5,7 @@ author_profile: true
 toc: false
 ---
 
-## H-Lab, Karlsruhe Institute of Technology (KIT)
+## Karlsruhe Institute of Technology (KIT)
 
 ### 11/2024 – 04/2025 · Master Thesis — *Designing an Iterative Prompt Optimization System for Domain-Specific Chatbots*
 - Designed and implemented an iterative **multi-agent debating** system to refine prompts for a mental-health support chatbot.
@@ -43,9 +43,7 @@ toc: false
 
 ---
 
-## OKTI Project
-
-### 06/2025 – Present
+### 06/2025 – Present · OKTI Project
 - Simulated **fixational eye movements** for dataset generation in **retinal OCT** B-scan volumes.
 - Trained and evaluated **3D U-Net with CBAM** for **motion artifact correction**.
 
