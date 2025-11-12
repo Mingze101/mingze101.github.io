@@ -37,7 +37,7 @@ In this paper, a novel question-answering (QA) approach named KGMistral is propo
 }
 ```
 </details>
-#### [2] KGMistral: Towards boosting the performance of large language models for question answering with knowledge graph integration (2025)
+#### [2] Perfusion Analysis for Telemedical Long-Term Monitoring of Patients with Chronic Skin Diseases (2025)
 
 Hofmann, J., Schweickart, L., Zimmermann, C., **Li, M.**, Below, J., Schmieder, A., ... & Stork, W.
 *2025 6th International Conference in Electronic Engineering & Information Technology (EEITE), Chania, Greece, pp. 1–6. IEEE, 2025.*
