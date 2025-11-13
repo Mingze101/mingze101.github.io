@@ -6,7 +6,7 @@ toc: false
 permalink: /en/projects/
 ---
 
-
+BUILD-CHECK: 42a7
 
 ## Karlsruhe Institute of Technology (KIT)
 
