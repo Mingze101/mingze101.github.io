@@ -4,78 +4,73 @@ layout: single
 author_profile: true
 toc: false
 permalink: /en/projects/
-redirect_from:
-  - /projects/
 ---
 
+<h2>Karlsruhe Institute of Technology (KIT)</h2>
 
-## Karlsruhe Institute of Technology (KIT)
-
-<details markdown="1" open>
-<summary><strong>11/2024 – 04/2025 · Master Thesis — <em>Designing an Iterative Prompt Optimization System for Domain-Specific Chatbots</em></strong></summary>
-
-- Designed and implemented an iterative **multi-agent debating** system to refine prompts for a mental-health support chatbot.
-- Grounded the system in **Design Science Research**, with design principles informed by **Cognitive Load Theory** and **Adaptive Structuration Theory**.
-- Automated **synthetic dialogue generation** and **GPTScore-based evaluation**, keeping domain experts in the loop via an interactive web interface.
-- Conducted a **mixed-methods user study** (experts & lay users; **PHQ-9**, **NASA-TLX**, qualitative feedback) and derived prescriptive design implications.
-
+<details open>
+  <summary><strong>11/2024 – 04/2025 · Master Thesis — <em>Designing an Iterative Prompt Optimization System for Domain-Specific Chatbots</em></strong></summary>
+  <ul>
+    <li>Designed and implemented an iterative <strong>multi-agent debating</strong> system to refine prompts for a mental-health support chatbot.</li>
+    <li>Grounded the system in <strong>Design Science Research</strong>, with design principles informed by <strong>Cognitive Load Theory</strong> and <strong>Adaptive Structuration Theory</strong>.</li>
+    <li>Automated <strong>synthetic dialogue generation</strong> and <strong>GPTScore-based evaluation</strong>, keeping domain experts in the loop via an interactive web interface.</li>
+    <li>Conducted a <strong>mixed-methods user study</strong> (experts &amp; lay users; <strong>PHQ-9</strong>, <strong>NASA-TLX</strong>, qualitative feedback) and derived prescriptive design implications.</li>
+  </ul>
 </details>
 
-<details markdown="1">
-<summary><strong>11/2023 – 03/2024 · Behavioral Activation Chatbot</strong></summary>
-
-- Developed a BA chatbot using a **Retrieval-Augmented Generation (RAG)** pipeline and a **fine-tuned GPT-3.5** model.
-- Implemented **mood tracking**, **personalized activity recommendations**, four **incentive mechanisms**, and **schedule management** via the Google Calendar API to support sustained engagement.
-- Ran a **SurveyMonkey** user study *(n = 25)* to evaluate usability, mood-tracking accuracy, and impact on BA, showing positive effects on users’ self-management and well-being.
-
+<details>
+  <summary><strong>11/2023 – 03/2024 · Behavioral Activation Chatbot</strong></summary>
+  <ul>
+    <li>Developed a BA chatbot using a <strong>Retrieval-Augmented Generation (RAG)</strong> pipeline and a <strong>fine-tuned GPT-3.5</strong> model.</li>
+    <li>Implemented <strong>mood tracking</strong>, <strong>personalized activity recommendations</strong>, four <strong>incentive mechanisms</strong>, and <strong>schedule management</strong> via the Google Calendar API to support sustained engagement.</li>
+    <li>Ran a <strong>SurveyMonkey</strong> user study (<em>n</em> = 25) to evaluate usability, mood-tracking accuracy, and impact on BA, showing positive effects on users’ self-management and well-being.</li>
+  </ul>
 </details>
 
-<details markdown="1">
-<summary><strong>11/2023 – 03/2024 · Engineering Interactive Systems & EIS Capstone Project</strong></summary>
-
-- Collected **multimodal data** (eye-tracking, HR, PPG, accelerometer, mouse clicks & movement) on an **ABB operator-training simulator** to study workload and performance in a realistic workplace.
-- Designed analyses and visual reports to give operators and supervisors feedback on **stress**, **attention**, and **performance**.
-- Prototyped a **biosignal-adaptive smartwatch interface**, exploring how physiological data can be integrated into everyday work to support safer and more efficient operation.
-
+<details>
+  <summary><strong>11/2023 – 03/2024 · Engineering Interactive Systems &amp; EIS Capstone Project</strong></summary>
+  <ul>
+    <li>Collected <strong>multimodal data</strong> (eye-tracking, HR, PPG, accelerometer, mouse clicks &amp; movement) on an <strong>ABB operator-training simulator</strong> to study workload and performance in a realistic workplace.</li>
+    <li>Designed analyses and visual reports to give operators and supervisors feedback on <strong>stress</strong>, <strong>attention</strong>, and <strong>performance</strong>.</li>
+    <li>Prototyped a <strong>biosignal-adaptive smartwatch interface</strong>, exploring how physiological data can be integrated into everyday work to support safer and more efficient operation.</li>
+  </ul>
 </details>
 
-<details markdown="1">
-<summary><strong>11/2023 – 03/2024 · Boosting the Performance of LLMs for QA with Knowledge Graph Integration [1]</strong></summary>
-
-- Implemented **entity/relation extraction** from questions and **SPARQL** over a domain KG.
-- Verbalized relevant triples and conducted **prompt engineering**.
-- Evaluated with **SBERT similarity**, **ROUGE**, and **BLEU**.
-- Improved **factuality** and grounding of our **KG-Mistral** pipeline vs. baselines.
-
+<details>
+  <summary><strong>11/2023 – 03/2024 · Boosting the Performance of LLMs for QA with Knowledge Graph Integration [1]</strong></summary>
+  <ul>
+    <li>Implemented <strong>entity/relation extraction</strong> from questions and <strong>SPARQL</strong> over a domain KG.</li>
+    <li>Verbalized relevant triples and conducted <strong>prompt engineering</strong>.</li>
+    <li>Evaluated with <strong>SBERT similarity</strong>, <strong>ROUGE</strong>, and <strong>BLEU</strong>.</li>
+    <li>Improved <strong>factuality</strong> and grounding of our <strong>KG-Mistral</strong> pipeline vs. baselines.</li>
+  </ul>
 </details>
 
----
+<hr />
 
-## FZI Forschungszentrum Informatik, Karlsruhe · HiWi (Student Research Assistant)
+<h2>FZI Forschungszentrum Informatik, Karlsruhe · HiWi (Student Research Assistant)</h2>
 
-<details markdown="1" open>
-<summary><strong>07/2024 – 06/2025 · HybridVITA Project  [2]</strong></summary>
-
-- **Data preprocessing** and **data augmentation** for dermatology images.
-- **FCN** model fine-tuning for **skin** and **psoriasis** mask segmentation.
-- Built a pipeline for **ArUco marker** identification and **psoriasis area** calculation.
-- **Clinical handover** and result interpretation with clinical and industry partners.
-
+<details open>
+  <summary><strong>07/2024 – 06/2025 · HybridVITA Project [2]</strong></summary>
+  <ul>
+    <li><strong>Data preprocessing</strong> and <strong>data augmentation</strong> for dermatology images.</li>
+    <li><strong>FCN</strong> model fine-tuning for <strong>skin</strong> and <strong>psoriasis</strong> mask segmentation.</li>
+    <li>Built a pipeline for <strong>ArUco marker</strong> identification and <strong>psoriasis area</strong> calculation.</li>
+    <li><strong>Clinical handover</strong> and result interpretation with clinical and industry partners.</li>
+  </ul>
 </details>
 
----
-
-<details markdown="1">
-<summary><strong>06/2025 – Present · OKTI Project</strong></summary>
-
-- Simulated **fixational eye movements** for dataset generation in **retinal OCT** B-scan volumes.
-- Trained and evaluated **3D U-Net with CBAM** for **motion artifact correction**.
-
+<details>
+  <summary><strong>06/2025 – Present · OKTI Project</strong></summary>
+  <ul>
+    <li>Simulated <strong>fixational eye movements</strong> for dataset generation in <strong>retinal OCT</strong> B-scan volumes.</li>
+    <li>Trained and evaluated <strong>3D U-Net with CBAM</strong> for <strong>motion artifact correction</strong>.</li>
+  </ul>
 </details>
 
----
+<hr />
 
 <small>
-[1] **KGMistral** — OpenReview: <https://openreview.net/forum?id=JzL0qm3YA8>  
-[2] **Perfusion Analysis for Telemedical Long-Term Monitoring of Patients with Chronic Skin Diseases** — IEEE Xplore: <https://ieeexplore.ieee.org/abstract/document/11166425/>
+[1] <strong>KGMistral</strong> — OpenReview: <a href="https://openreview.net/forum?id=JzL0qm3YA8" target="_blank" rel="noreferrer">https://openreview.net/forum?id=JzL0qm3YA8</a><br />
+[2] <strong>Perfusion Analysis for Telemedical Long-Term Monitoring of Patients with Chronic Skin Diseases</strong> — IEEE Xplore: <a href="https://ieeexplore.ieee.org/abstract/document/11166425/" target="_blank" rel="noreferrer">https://ieeexplore.ieee.org/abstract/document/11166425/</a>
 </small>
