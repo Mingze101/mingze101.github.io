@@ -3,7 +3,11 @@ title: "Projects"
 layout: single
 author_profile: true
 toc: false
+permalink: /en/projects/
+redirect_from:
+  - /projects/
 ---
+
 
 ## Karlsruhe Institute of Technology (KIT)
 
