@@ -9,7 +9,7 @@ permalink: /en/projects/
 <h2>Karlsruhe Institute of Technology (KIT)</h2>
 
 <details open>
-  <summary><strong>11/2024 – 04/2025 · Master Thesis — <em>Designing an Iterative Prompt Optimization System for Domain-Specific Chatbots</em></strong></summary>
+  <summary><strong>11/2024 – 04/2025 · Master Thesis — Designing an Iterative Prompt Optimization System for Domain-Specific Chatbots</strong></summary>
   <ul>
     <li>Designed and implemented an iterative <strong>multi-agent debating</strong> system to refine prompts for a mental-health support chatbot.</li>
     <li>Grounded the system in <strong>Design Science Research</strong>, with design principles informed by <strong>Cognitive Load Theory</strong> and <strong>Adaptive Structuration Theory</strong>.</li>
