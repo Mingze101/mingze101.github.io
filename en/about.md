@@ -7,5 +7,5 @@ title: "About"
 **Data workflows for large imaging datasets**: preprocessing, augmentation, dataset versioning, and reproducible analysis pipelines on GPU servers in collaboration with clinicians and engineers.
 
 
-#Short bio here. Research interests, current/previous labs (FZI / KIT), what opportunities you're seeking (PhD/RA/Collab), etc.
+HiWi at FZI, seeking PhD position.
 
