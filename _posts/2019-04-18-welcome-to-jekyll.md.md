@@ -18,16 +18,17 @@ You can preview it directly on this page or download it as a PDF.
 
 ### 🧾 Online Preview
 
-<iframe src="/assets/files/CV_Mingze_Li.pdf#toolbar=0&view=FitH" width="100%" height="800px" style="border: none; border-radius: 8px;"></iframe>
+<iframe src="{{ '/assets/files/CV_Mingze_Li.pdf' | relative_url }}?v=20260114#toolbar=0&view=FitH"
+        width="100%" height="800px"
+        style="border: none; border-radius: 8px;"></iframe>
 
 ---
 
 ### 📥 Download
 
-[👉 Click here to download Mingze_Li.pdf](/assets/files/Mingze_Li.pdf){: .btn .btn--primary }
+[👉 Click here to download CV_Mingze_Li.pdf]({{ '/assets/files/CV_Mingze_Li.pdf' | relative_url }}?v=20260114){: .btn .btn--primary }
 
-*(Last updated: November 2025)*
-
+*(Last updated: Jan 2026)*
 ---
 
 <small>If the embedded preview doesn’t display properly in your browser,  
