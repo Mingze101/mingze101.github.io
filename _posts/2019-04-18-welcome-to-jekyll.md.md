@@ -1,6 +1,6 @@
 ---
 title: "My Latest CV"
-date: 2025-11-12T15:34:30-04:00
+date: 2026-1-14T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -18,7 +18,7 @@ You can preview it directly on this page or download it as a PDF.
 
 ### 🧾 Online Preview
 
-<iframe src="/assets/files/Mingze_Li.pdf#toolbar=0&view=FitH" width="100%" height="800px" style="border: none; border-radius: 8px;"></iframe>
+<iframe src="/assets/files/CV_Mingze_Li.pdf#toolbar=0&view=FitH" width="100%" height="800px" style="border: none; border-radius: 8px;"></iframe>
 
 ---
 
