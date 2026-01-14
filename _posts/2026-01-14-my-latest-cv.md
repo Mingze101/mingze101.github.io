@@ -1,6 +1,6 @@
 ---
 title: "My Latest CV"
-date: 2026-1-14T15:34:30-04:00
+date: 2026-01-14
 categories:
   - blog
 tags:
@@ -9,6 +9,7 @@ tags:
 permalink: /blog/mylatestCV/
 layout: single
 toc: false
+lang: en
 ---
 
 Below is the latest version of my **Curriculum Vitae (CV)**.  
