@@ -33,9 +33,11 @@ Developed image-segmentation and quantitative-analysis workflows for smartphone 
 
 Developed a provenance-aware workflow for structuring longitudinal oncology reports into patient timelines while preserving source evidence, temporal information, uncertainty, and consistency checks.
 
-### Expert-in-the-Loop Multi-Agent Systems
+### Expert-in-the-Loop Multi-Agent System
 
 Designed and evaluated a controllable multi-agent system for iterative prompt refinement, combining simulated dialogues, automatic evaluation, expert feedback, manual intervention, and version rollback.
+
+[Master's Thesis](https://drive.google.com/file/d/1pd7S7-Mso8ApdXMqBbO5F84Z1c9DL7mu/view?usp=sharing)
 
 ### KGMistral — Knowledge-Graph-Grounded Question Answering
 
