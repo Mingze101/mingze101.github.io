@@ -7,7 +7,7 @@ permalink: /en/
 
 I hold an M.Sc. in Information Systems from **Karlsruhe Institute of Technology (KIT)** and have applied research experience at **FZI Forschungszentrum Informatik**.
 
-My work has included biomedical imaging and reconstruction, longitudinal clinical modelling, knowledge-grounded language systems, and expert-in-the-loop AI. Across these projects, I have worked on reproducible research workflows, structured evaluation, and reliability across data and model pipelines.
+My work has included biomedical imaging and reconstruction, longitudinal clinical modelling, knowledge-grounded language systems, and expert-in-the-loop AI. Across these projects, I have worked on reproducible research workflows, systematic evaluation, and reliability across data and model pipelines.
 
 ## Selected Research
 
@@ -15,7 +15,7 @@ My work has included biomedical imaging and reconstruction, longitudinal clinica
 
 Developed a simulation-based 3D workflow for retinal OCT motion-artifact correction and displacement estimation, including differentiable warping, synthetic supervision, quality-control checks, and quantitative evaluation.
 
-[Publication record](/en/publications/)
+[Manuscript entry](/en/publications/)
 
 ### Reliable Clinical Trajectory Modelling
 
@@ -43,4 +43,4 @@ Designed and evaluated a controllable multi-agent system for iterative prompt re
 
 Built an RDF/SPARQL-based retrieval pipeline that maps natural-language questions to structured knowledge-graph evidence and grounds language-model responses in retrieved triples.
 
-[Paper](https://openreview.net/forum?id=JzL0qm3YA8) · [Code](https://github.com/Mingze101/KGMistral)
+[Publication](https://openreview.net/forum?id=JzL0qm3YA8) · [Code](https://github.com/Mingze101/KGMistral)
