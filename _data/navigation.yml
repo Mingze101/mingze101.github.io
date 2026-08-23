@@ -1,11 +1,6 @@
 main:
   - title: "Home"
     url: /en/
-  - title: "About"
-    url: /en/about/
-  - title: "Projects"
-    url: /en/projects/
+
   - title: "Publications"
     url: /en/publications/
-  #- title: "中文"
-    #url: /zh/
