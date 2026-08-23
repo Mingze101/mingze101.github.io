@@ -1,62 +1,46 @@
-eetitle: "Mingze Li"
+title: "Mingze Li"
 name: "Mingze Li"
-description: "AI for medical imaging • Robust ML • Human-centered LLM systems"
-# --- 主题：remote_theme 方式（GitHub Pages 友好）
+description: "Mingze Li — research portfolio and publications"
+
 remote_theme: "mmistakes/minimal-mistakes"
-# ↑ 可选：固定版本（更稳）： "mmistakes/minimal-mistakes@4.24.0"
 
-# --- 站点基础
 url: "https://mingze101.github.io"
-baseurl: ""  # 个人主页留空
-locale: "en" # 默认英文（UI 文案使用主题内置英文）
+baseurl: ""
+locale: "en"
 
-# --- 外观
 theme_skin: "default"
 minimal_mistakes_skin: "default"
 title_separator: "—"
 
-# --- 作者资料（侧栏）
 author:
   name: "Mingze Li"
-  avatar: "/assets/images/20250722035914.jpg" # 放你头像即可；没有就删掉这一行bio-photo.jpg
-  bio: "AI for medical imaging • Robust ML • Human-centered LLM systems"
-  location: "Karlsruhe, Germany"
+  avatar: "/assets/images/20250722035914.jpg"
+  bio: "M.Sc. Information Systems · KIT"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Mingze101"
+
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:mesenlee@163.com"
+
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mingze-li-987147363/"
 
-# --- 社交/分析（暂时不用可删）
-# google_analytics: ""
-# disqus: ""
-
-# --- 导航数据文件
-collections: null
-
-# --- 构建
 markdown: kramdown
+
 kramdown:
   input: GFM
   parse_block_html: true
   parse_span_html: true
 
-
 highlighter: rouge
+
 plugins:
-  - jekyll-include-cache  # 可选，提升构建性能（GitHub Pages 支持）
+  - jekyll-include-cache
 
-# --- 文章与页面
-paginate: 5
-paginate_path: "/en/page:num/"
-permalink: /:categories/:title/
-
-# --- 默认：英文区用 author profile
 defaults:
   - scope:
       path: ""
@@ -64,10 +48,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-
